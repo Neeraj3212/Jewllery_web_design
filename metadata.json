@@ -1,0 +1,6 @@
+{
+  "name": "AURELIA Fine Jewellery",
+  "description": "An immersive, cinematic scroll-driven luxury jewellery experience showcasing handcrafted fine jewellery and high-end atelier craftsmanship.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
